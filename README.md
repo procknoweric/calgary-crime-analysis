@@ -50,7 +50,7 @@ The Power BI dashboard is built for decision-making, not just display. It covers
 Key metrics are surfaced in headline KPI cards showing total crimes, the dominant crime category, and year-over-year change vs the prior year.
 
 
-![Dashboard Preview] <img width="1294" height="726" alt="Calgary-Crime-Dashboard-Screenshot" src="https://github.com/user-attachments/assets/d5719a57-8430-4486-87f3-27709234dc2e" />
+![Dashboard Preview] <img width="1294" height="726" alt="Calgary-Crime-Dashboard-Screenshot" src="https://github.com/user-attachments/assets/5885e5c4-0f05-44ae-afb8-b4dfdd436d59" />
 
 
 ## Methodology Notes
